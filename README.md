@@ -33,7 +33,7 @@ Check out my newly launched portfolio: **[belarmino.dev](https://belarmino.dev)*
 
 ### 🛠️ Tech Stack & Ferramentas
 * **Frontend:** React, Next.js, Tailwind CSS, TypeScript
-* **Backend:** Node.js, Java, C#, Next.js API Routes
+* **Backend:** Node.js, Next.js API Routes
 * **Arquitetura & Infra:** Cloud, Microserviços, Clean Architecture, Vercel
 
 <br/>

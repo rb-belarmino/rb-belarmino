@@ -14,7 +14,7 @@
 ### 🇧🇷 Sobre mim (PT)
 Olá! Sou o Rodrigo, um desenvolvedor de software focado em arquitetar sistemas modernos, seguros e altamente escaláveis. Trabalho transformando ideias complexas em interfaces de alta performance e experiências memoráveis. 
 
-Tenho forte base em **Node.js/TypeScript**, **Java**, **C#** e ecossistemas de Cloud/Multi-Cloud. Sempre busco aplicar Clean Architecture e boas práticas de engenharia em tudo que construo.
+Tenho forte base em **Node.js/TypeScript**, **Python** e ecossistemas de Cloud/Multi-Cloud. Sempre busco aplicar Clean Architecture e boas práticas de engenharia em tudo que construo.
 
 👉 **Quer conhecer meus projetos mais recentes e ver um pouco da minha visão de design de código?**  
 Acesse o meu portfólio recém-lançado: **[belarmino.dev](https://belarmino.dev)**
@@ -24,7 +24,7 @@ Acesse o meu portfólio recém-lançado: **[belarmino.dev](https://belarmino.dev
 ### 🇺🇸 About me (EN)
 Hi there! I'm Rodrigo, a software developer focused on architecting modern, secure, and highly scalable systems. I work by transforming complex ideas into high-performance interfaces and memorable experiences.
 
-I have a strong background in **Node.js/TypeScript**, **Java**, **C#**, and Cloud/Multi-Cloud ecosystems. I always strive to apply Clean Architecture and strong engineering practices to everything I build.
+I have a strong background in **Node.js/TypeScript**, **Python**, and Cloud/Multi-Cloud ecosystems. I always strive to apply Clean Architecture and strong engineering practices to everything I build.
 
 👉 **Want to see my latest projects and get a glimpse of my code design vision?**  
 Check out my newly launched portfolio: **[belarmino.dev](https://belarmino.dev)**
